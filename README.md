@@ -1,3 +1,8 @@
+# HotMaps-building_h-c Docker image
+
+This Docker image offers a GIS Flask + uWSGI + Nginx setup to run a webservice in Python 3.6.
+It is based on Ubuntu 16.04.
+
 ### Software installed:
 #### Basic software
 * qgis 2.18
