@@ -1,0 +1,6 @@
+numpy
+pandas
+geopandas == 0.2.1
+Rasterstats == 0.12.0
+Rasterio == 1.0a8
+scikit-image == 0.13.0
